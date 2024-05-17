@@ -17,7 +17,7 @@ form.addEventListener("submit", function (e) {
     // list.insertAdjacentHTML("beforebegin", "radio");
     radio.classList.add("radio");
     deleteBtn.textContent = "❌";
-    crossbtn.textContent = "";
+    crossbtn.textContent = "✔";
     deleteBtn.classList.add("delete");
     crossbtn.classList.add("cross");
 
